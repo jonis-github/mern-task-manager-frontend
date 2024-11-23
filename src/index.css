@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  * {
+    /* @apply border border-dashed border-[#f7c3b9] */
+  }
+}
